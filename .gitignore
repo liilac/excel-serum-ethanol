@@ -1,0 +1,4 @@
+# npm
+node_modules/
+# office add in
+dist/
